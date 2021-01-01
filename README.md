@@ -26,40 +26,40 @@ See CodeMR [web site](https://www.codemr.co.uk) for details on the CodeMR.
 Download [trial license](https://www.codemr.co.uk/downloads) to try CodeMR for other projects.
 
 
-CodeMR model path: ./codemr/junit4/junit4.mdl
+CodeMR model path: ./codemr/junit/junit.mdl
 
 
 ### Snapshots ###
 
 #### Overview #### 
-![Overview](codemr/junit4/snapshots/Overview.png)
+![Overview](codemr/junit/snapshots/Overview.png)
 
 #### TreeMap Complexity View #### 
-![ComplexityTreeMap](codemr/junit4/snapshots/ComplexityTreeMap.png)
+![ComplexityTreeMap](codemr/junit/snapshots/ComplexityTreeMap.png)
 
 #### Package Structure Cohesion View #### 
-![CohesionPackageStructure](codemr/junit4/snapshots/CohesionPackageStructure.png)
+![CohesionPackageStructure](codemr/junit/snapshots/CohesionPackageStructure.png)
 
 #### Package Dependency View #### 
-![PackageDependency](codemr/junit4/snapshots/PackageDependency.png)
+![PackageDependency](codemr/junit/snapshots/PackageDependency.png)
 
 #### Outline View #### 
-![Outline](codemr/junit4/snapshots/Outline.png)
+![Outline](codemr/junit/snapshots/Outline.png)
 
 
 #### Modularity Graph #### 
-![ModularityGraph](codemr/junit4/snapshots/AllModularity.png)
+![ModularityGraph](codemr/junit/snapshots/AllModularity.png)
 
 #### Create Relations #### 
-![AllCreate](codemr/junit4/snapshots/AllCreate.png)
+![AllCreate](codemr/junit/snapshots/AllCreate.png)
 
 #### Experiment Package Modularity Graph #### 
-![ExperimentModularity](codemr/junit4/snapshots/ExperimentModularity.png)
+![ExperimentModularity](codemr/junit/snapshots/ExperimentModularity.png)
 
 #### Internal Package Modularity Graph #### 
-![InternalModularity](codemr/junit4/snapshots/InternalModularity.png)
+![InternalModularity](codemr/junit/snapshots/InternalModularity.png)
 
 #### Implements and Inheritance Relations #### 
-![InheritanceRadialTree](codemr/junit4/snapshots/InheritanceRadialTree.png)
+![InheritanceRadialTree](codemr/junit/snapshots/InheritanceRadialTree.png)
 
-![StatementInheritance](codemr/junit4/snapshots/StatementInheritance.png)
+![StatementInheritance](codemr/junit/snapshots/StatementInheritance.png)
